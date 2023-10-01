@@ -26,3 +26,6 @@ Available at [Coursera](https://www.coursera.org/learn/foundations-of-cybersecur
 * [Responsibilities of an entry-level cybersecurity analyst](Week%201/responsibilities.md)
 * [Nikki: A day in the life of a security engineer](Week%201/nikki_life.md)
 * [Common cybersecurity terminology](https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/HL7Fa/common-cybersecurity-terminology) 
+
+###
+
