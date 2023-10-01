@@ -19,6 +19,8 @@ Available at [Coursera](https://www.coursera.org/learn/foundations-of-cybersecur
 * [Helpful resources and tips](https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/hx2Pt/helpful-resources-and-tips)
 * [Participate in program surveys](https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/9d6YS/participate-in-program-surveys)
 
+###
+
 * [Introduction to cybersecurity](Week%201/intro.md)
 * [Toni: My path to cybersecurity](Week%201/toni_path.md)
 * [Responsibilities of an entry-level cybersecurity analyst](Week%201/responsibilities.md)
