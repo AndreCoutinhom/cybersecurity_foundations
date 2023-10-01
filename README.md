@@ -16,4 +16,11 @@ Available at [Coursera](https://www.coursera.org/learn/foundations-of-cybersecur
 * [Google Cybersecurity Certificate overview](https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/qk2Wx/google-cybersecurity-certificate-overview)
 * [Course 1 overview](https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/QBRd5/course-1-overview)
 * [Welcome to week 1](Week%201/welcome_2.md)
-* 
+* [Helpful resources and tips](https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/hx2Pt/helpful-resources-and-tips)
+* [Participate in program surveys](https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/9d6YS/participate-in-program-surveys)
+
+* [Introduction to cybersecurity](Week%201/intro.md)
+* [Toni: My path to cybersecurity](Week%201/toni_path.md)
+* [Responsibilities of an entry-level cybersecurity analyst]
+* [Nikki: A day in the life of a security engineer]
+* [Common cybersecurity terminology](https://www.coursera.org/learn/foundations-of-cybersecurity/supplement/HL7Fa/common-cybersecurity-terminology) 
