@@ -12,4 +12,4 @@ Available at [Coursera](https://www.coursera.org/learn/foundations-of-cybersecur
 
 ## Week 1:
 
-* [Welcome to the Google Cybersecurity Certificate](Week)
+* [Welcome to the Google Cybersecurity Certificate](Week%201/welcome.md)
